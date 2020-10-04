@@ -1,0 +1,3 @@
+/home/rodrigomontero/Documentos/Directory/build/CMakeFiles/rebuild_cache.dir
+/home/rodrigomontero/Documentos/Directory/build/CMakeFiles/edit_cache.dir
+/home/rodrigomontero/Documentos/Directory/build/CMakeFiles/DIRECTORY.dir

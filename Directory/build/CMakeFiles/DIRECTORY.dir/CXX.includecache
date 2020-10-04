@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rodrigomontero/Documentos/Directory/List_size.cpp
+iostream
+-
+dirent.h
+-
+fstream
+-
+cstring
+-
+sstream
+-
+
