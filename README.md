@@ -1,5 +1,6 @@
 # Directory
 ```
+DOWNLOAD THE FOLDER AND RUN.
 //This program list the documents of a file and read the size of this document, and create a new documen .json with this information
 //Input ./Directory direccion of the file.
 //For example: ./Directory /home/user/Documents
